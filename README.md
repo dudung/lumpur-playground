@@ -51,7 +51,7 @@ Open the desired notebook from the `notebooks/` folder and run the cells.
 
 ## Examples
 
-### Available Notebooks
+### To Be Available Notebooks
 
 1. **Introduction**
    - Notebook: `notebooks/introduction.ipynb`
