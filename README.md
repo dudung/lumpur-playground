@@ -70,10 +70,12 @@ Open the desired notebook from the `notebooks/` folder and run the cells.
    - Explains grid-based and random walk-like simulations with examples from the `sim` module.
 
 ### Additional Resources
-Each notebook includes:
+Each notebook should include:
 - Step-by-step instructions.
 - Code snippets.
 - Visualizations (if applicable).
+
+You can also visit https://github.com/dudung/py-jupyter-nb, where initial lumpur development is taken place.
 
 ---
 
